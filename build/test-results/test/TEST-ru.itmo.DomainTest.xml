@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.itmo.DomainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-08T04:45:09" hostname="DESKTOP-BIQATCG" time="0.171">
+  <properties/>
+  <testcase name="main plot()" classname="ru.itmo.DomainTest" time="0.171"/>
+  <system-out><![CDATA[Артур, нервничая, вошел следом и был ошеломлен, увидев развалившегося в кресле человека, положившего ноги, на пульт управления и ковыряющего левой рукой в зубах правой головы. Правая голова, казалось, была всецело занята этим, но зато левая улыбалась широко и непринужденно.Количество вещей, видя которые, Артур не верил своим глазам, всё росло.Его челюсть отвисла.]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
